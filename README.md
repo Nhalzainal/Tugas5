@@ -50,11 +50,11 @@ jika kondisi a>b tidak terpenuhui(atau b<=a),maka 2 kadidat bilangan terbesar ad
 ![gambar](ss/ss5.png)
 
 # Lab 2 latihan 1
-Buat program sederhada dengan memasukkan 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan pernyataan if
+Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 input variabel atau lebih), kemudian ditampilkan hasilnya secara berurutan mulai dari data terkecil.
 ![gambar](ss/ss6.png)
 
 # Lab 2 latihan 2
-Buat program untuk mengurutkan data berdasarkan input sejumlah data (minimal 3 input variabel atau lebih), kemudian ditampilkan hasilnya secara berurutan mulai dari data terkecil.
+Buat program sederhada dengan memasukkan 2 buah bilangan, kemudian tentukan bilangan terbesar dari kedua bilangan tersebut menggunakan pernyataan if
 ![gambar](ss/ss7.png)
 
 # Lab 3 latihan 1
